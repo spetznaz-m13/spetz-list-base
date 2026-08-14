@@ -8,7 +8,7 @@ Wabbajack Modlist Installer by *SpetznazM13*
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-wabbajack.png" width="64px" /></td>
-<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
+<td><a href="https://build.wabbajack.org/authored_files/download/Spetz%20List%20-%20Base.wabbajack_b07d2016-19c9-4064-93c0-38cb911603a2">Download on Wabbajack</a></td>
 <td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-discord.png" width="72px" /></td>
 <td><a href="https://discord.gg/amBNnXWDc6">Join us on Discord</a></td>
 </tr>
@@ -111,6 +111,7 @@ Prior to installing the **Spetz List**, please complete the following steps.
 Downloading and installing the **Spetz List** can take a while depending on your internet connection and depending on whether you have [Nexus Mods Premium](https://www.nexusmods.com/premium). To install the **Spetz List**, complete the following steps:
 
 1. Close Wabbajack if it's open.
+1. Download the **Spetz List** `.wabbajack` file from the [Wabbajack CDN](https://build.wabbajack.org/authored_files/download/Spetz%20List%20-%20Base.wabbajack_b07d2016-19c9-4064-93c0-38cb911603a2).
 1. Open the `Spetz List - Base.wabbajack` file with Wabbajack.
 1. For `Installation Location`, choose a location close to the root of the drive, not in a protected folder/location, and on the same solid-state drive as the install of the GOG version of Skyrim (For example, `C:\wabbajack\spetz-list-base`).
 1. For `Downloads Location`, it's generally recommended to let Wabbajack automatically set this (Wabbajack sets it to same path as `Installation Location` except with `\downloads` added to it).
