@@ -14,6 +14,15 @@ Wabbajack Modlist Installer by *SpetznazM13*
 </tr>
 </table>
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
 <!-- omit from toc -->
 ## Contents
 - [Preamble](#preamble)
@@ -40,6 +49,9 @@ Wabbajack Modlist Installer by *SpetznazM13*
 The **Base** version of the **Spetz List** is meant to be a stable foundation to build other modlists from. This modlist only includes mods for increased stability and fixes.
 
 A full list of mods used can be found [here](https://loadorderlibrary.com/lists/spetz-list-base).
+
+> [!NOTE]
+> This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## System Requirements
 
