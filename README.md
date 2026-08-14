@@ -1,15 +1,15 @@
 <!-- omit from toc -->
 # The Spetz List - Base
 
-![image](https://github.com/spetznaz-m13/spetz-list/blob/main/docs/images/spetz-list-base-thumbnail.jpg?raw=true)
+![image](https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/spetz-list-base-thumbnail.jpg?raw=true)
 
 Wabbajack Modlist Installer by *SpetznazM13*
 
 <table stlyle="border: none;">
 <tr>
-<td><img src="https://github.com/spetznaz-m13/spetz-list/blob/main/docs/images/icon-wabbajack.png" width="64px" /></td>
+<td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-wabbajack.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>
-<td><img src="https://github.com/spetznaz-m13/spetz-list/blob/main/docs/images/icon-discord.png" width="72px" /></td>
+<td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-discord.png" width="72px" /></td>
 <td><a href="https://discord.gg/amBNnXWDc6">Join us on Discord</a></td>
 </tr>
 </table>
@@ -218,7 +218,7 @@ Delete the install location folder and any desktop shortcuts that were created.
 
 Only the latest version of the modlist is supported. No exceptions.
 
-If you encounter bugs with the modlist, open a new issue [here](https://github.com/spetznaz-m13/spetz-list/issues). Please check for existing issues first.
+If you encounter bugs with the modlist, open a new issue [here](https://github.com/spetznaz-m13/spetz-list-base/issues). Please check for existing issues first.
 
 No support is provided for users who added, modified, or removed mods. Support is only provided for the latest version of the modlist without any modifications made to it.
 
