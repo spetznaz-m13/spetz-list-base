@@ -1,0 +1,6145 @@
+[
+  {
+    "displayName": "EngineFixes",
+    "modId": 17230,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.1170 (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Script Effect Archetype Crash Fix",
+    "modId": 43532,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Plugin",
+        "masters": [],
+        "name": "1.6.318.0+ (Anniversary Edition)",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Plugin",
+        "masters": [],
+        "name": "1.5.97.0- (Special Edition)",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Required",
+        "masters": [],
+        "name": "Log",
+        "selectionState": "Selected",
+        "step": "Options"
+      }
+    ]
+  },
+  {
+    "displayName": "powerofthree's Tweaks",
+    "modId": 51073,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.629+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "powerofthree's Papyrus Extender",
+    "modId": 22854,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.1170+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.640 (\"Anniversary Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Base Object Swapper",
+    "modId": 60805,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.1130+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.640 (\"Anniversary Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Spell Perk Item Distributor",
+    "modId": 36869,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.629+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Keyword Item Distributor",
+    "modId": 55728,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "VR v1.4.15 (\"Skyrim VR\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Static Mesh Improvement Mod - MAXIMIZE this window to better see the images!",
+    "modId": 659,
+    "options": [
+      {
+        "fileName": "95 Merged ESP SE All\\SMIM-SE-Merged-All.esp",
+        "group": "Skyrim Game Version and Install Choices",
+        "masters": [],
+        "name": "Skyrim 2016 Special Edition: Everything",
+        "selectionState": "Selected",
+        "step": "Main Installer Choice"
+      },
+      {
+        "fileName": "95 Merged ESP SE No Riften Ropes No Solitude Ropes\\SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp",
+        "group": "Skyrim Game Version and Install Choices",
+        "masters": [],
+        "name": "Skyrim 2016 Special Edition: Lite (Same as XBox One Lite)",
+        "selectionState": "Available",
+        "step": "Main Installer Choice"
+      },
+      {
+        "fileName": "00 Core\\SMIM-SE-FarmhouseFlickeringFix.esp",
+        "group": "Skyrim Game Version and Install Choices",
+        "masters": [],
+        "name": "Skyrim 2016 Special Edition: Very Lite",
+        "selectionState": "Available",
+        "step": "Main Installer Choice"
+      },
+      {
+        "fileName": "",
+        "group": "Skyrim Game Version and Install Choices",
+        "masters": [],
+        "name": "Skyrim 2016 Special Edition: Custom",
+        "selectionState": "Available",
+        "step": "Main Installer Choice"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Brumbek's New High-Res (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Brumbek's New High-Res No Animations",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Brumbek's New High-Res Rustic",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Brumbek's New High-Res Rustic No Animations",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Modified Vanilla Barrels",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Barrels",
+        "masters": [],
+        "name": "Modified Vanilla Barrels No Animations",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Bowl Ingredients",
+        "masters": [],
+        "name": "Improved Bowl Ingredients",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Bridges",
+        "masters": [],
+        "name": "Bridges Real Roads (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Bridges",
+        "masters": [],
+        "name": "Bridges",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Bridges",
+        "masters": [],
+        "name": "Bridges Old Stonework",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Candelabras",
+        "masters": [],
+        "name": "Improved Candelabras",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Carriage Seats and Fixes",
+        "masters": [],
+        "name": "Improved Carriages",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Misc",
+        "masters": [],
+        "name": "Chains 3D - Misc",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Pull Levers",
+        "masters": [],
+        "name": "Chains 3D - Pull Levers Small Rings (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Pull Levers",
+        "masters": [],
+        "name": "Chains 3D - Pull Levers",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Pull Levers",
+        "masters": [],
+        "name": "Chains 3D - Pull Levers Lite",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Signs",
+        "masters": [],
+        "name": "Chains 3D - Signs",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chains 3D - Whiterun",
+        "masters": [],
+        "name": "Chains 3D - Whiterun",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chandeliers",
+        "masters": [],
+        "name": "Improved Chandeliers (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Chandeliers",
+        "masters": [],
+        "name": "Improved Chandeliers No 3D Chains",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Clothing Fixes",
+        "masters": [],
+        "name": "Clothing Fixes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dawnguard Soulcairn Bone Piles",
+        "masters": [],
+        "name": "Bone Piles Yellow Bones (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dawnguard Soulcairn Bone Piles",
+        "masters": [],
+        "name": "Bone Piles White Bones",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dawnguard Soulcairn Bone Piles",
+        "masters": [],
+        "name": "Bone Piles Yellow Bones More Bones",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dawnguard Soulcairn Bone Piles",
+        "masters": [],
+        "name": "Bone Piles White Bones More Bones",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Draugr Corpses",
+        "masters": [],
+        "name": "Draugr Corpses",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dungeons Cliffs Snow Skirts",
+        "masters": [],
+        "name": "Snow Blending ESP (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dungeons Cliffs Snow Skirts",
+        "masters": [],
+        "name": "No Snow Blending ESP",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dwemer Animated Lifts",
+        "masters": [],
+        "name": "Dwemer Animated Lifts",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Dwemer Clutter",
+        "masters": [],
+        "name": "Dwemer Clutter",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Farmhouse Woven Fence",
+        "masters": [],
+        "name": "Woven Fence Less Flicker (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Farmhouse Woven Fence",
+        "masters": [],
+        "name": "Woven Fence",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Farmhouse Woven Fence",
+        "masters": [],
+        "name": "Woven Fence Dense",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Farmhouse Woven Fence",
+        "masters": [],
+        "name": "Woven Fence Dense Gray",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Food",
+        "masters": [],
+        "name": "Improved Food",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Food - Tomato Style",
+        "masters": [],
+        "name": "Default Heirloom",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Food - Tomato Style",
+        "masters": [],
+        "name": "Pure Red (Brumbek's Preference)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Furniture Chests",
+        "masters": [],
+        "name": "Improved Furniture Chests",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Furniture Common",
+        "masters": [],
+        "name": "Improved Furniture SMIM Textures (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Furniture Common",
+        "masters": [],
+        "name": "Improved Furniture Smooth Skyrim HD",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Furniture Common",
+        "masters": [],
+        "name": "Improved Furniture Weathered Dark",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Furniture Noble",
+        "masters": [],
+        "name": "Improved Furniture Noble",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Hanging Rings",
+        "masters": [],
+        "name": "Hanging Rings",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Hawk",
+        "masters": [],
+        "name": "Hawk Improvements",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Hearthfires Stuff",
+        "masters": [],
+        "name": "Hearthfires Stuff",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Human Skull Fixes",
+        "masters": [],
+        "name": "Human Skull Fixes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Imperial Jail",
+        "masters": [],
+        "name": "Improved Imperial Jail (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Imperial Jail",
+        "masters": [],
+        "name": "Improved Imperial Jail Brighter Metal",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Jewelry Rings",
+        "masters": [],
+        "name": "Jewelry Rings Vanilla",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Jewelry Rings",
+        "masters": [],
+        "name": "Jewelry Rings CCO Remade or Jewelcraft",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Lanterns",
+        "masters": [],
+        "name": "Lanterns",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Nordic Tables and Benches",
+        "masters": [],
+        "name": "Nordic Tables and Benches",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Orc Longhouse",
+        "masters": [],
+        "name": "Orc Longhouse",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Poor Coffin",
+        "masters": [],
+        "name": "Poor Coffin",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Rabbit",
+        "masters": [],
+        "name": "Improved Rabbit",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Rocks - Blackreach",
+        "masters": [],
+        "name": "Rocks - Blackreach",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Rocks - Generic",
+        "masters": [],
+        "name": "Rocks - Generic",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Rocks - Mountains",
+        "masters": [],
+        "name": "Rocks - Mountains",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Dungeons",
+        "masters": [],
+        "name": "Dungeons 3D Ropes and Glorious Scaffolding",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Dungeons",
+        "masters": [],
+        "name": "Dungeons 3D Ropes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Farmhouse",
+        "masters": [],
+        "name": "Farmhouse 3D Ropes No Fade (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Farmhouse",
+        "masters": [],
+        "name": "Farmhouse 3D Ropes Distance Fade",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Farmhouse",
+        "masters": [],
+        "name": "Farmhouse Texture UV Fixes Only",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Raven Rock Docks",
+        "masters": [],
+        "name": "Raven Rock Docks 3D Ropes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Riften",
+        "masters": [],
+        "name": "Riften 3D Ropes Default Ropes Style (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Riften",
+        "masters": [],
+        "name": "Riften 3D Ropes Optional Better Ropes Style",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Solitude Docks",
+        "masters": [],
+        "name": "Solitude Docks 3D Ropes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ropes 3D - Stockade",
+        "masters": [],
+        "name": "Stockade 3D Ropes",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Ruins Sarcophagus",
+        "masters": [],
+        "name": "Ruins Sarcophagus",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Shack Roofs",
+        "masters": [],
+        "name": "Improved Shack Roofs with Dragonborn",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Skeletal Remains 3D",
+        "masters": [],
+        "name": "Skeletal Remains 3D",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Smelters",
+        "masters": [],
+        "name": "Smelters",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Solitude Gate Doors",
+        "masters": [],
+        "name": "Solitude Gate Doors",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Pewter Tankards (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Dark Brushed Metal Tankards",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Bright Brushed Metal Tankards",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Pewter Tankards Half-Size Textures",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Dark Brushed Metal Tankards Half-Size Textures",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tankards",
+        "masters": [],
+        "name": "Bright Brushed Metal Tankards Half-Size Textures",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tree - Juniper Tree",
+        "masters": [],
+        "name": "Improved Juniper Tree",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Tree - Tundra Tree",
+        "masters": [],
+        "name": "Improved Tundra Tree",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Whiterun Castle Wood Carvings",
+        "masters": [],
+        "name": "Wood Carvings Celtic (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Whiterun Castle Wood Carvings",
+        "masters": [],
+        "name": "Wood Carvings Improved Vanilla",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Whiterun Castle Wood Carvings",
+        "masters": [],
+        "name": "Wood Carvings Moroccan",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Whiterun Doors",
+        "masters": [],
+        "name": "Whiterun Doors",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Windmills",
+        "masters": [],
+        "name": "Base Vanilla Version Sails (Recommended)",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Windmills",
+        "masters": [],
+        "name": "Base Vanilla Version",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Windmills",
+        "masters": [],
+        "name": "DynDOLOD/SkyMills Compatibility Sails",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Windmills",
+        "masters": [],
+        "name": "DynDOLOD/SkyMills Compatibility",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Xtra Options - Half-Size Textures Addon",
+        "masters": [],
+        "name": "Half-Size",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Xtra Options - Half-Size Textures Addon",
+        "masters": [],
+        "name": "Half-Size with Skyrim HD Furniture",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Xtra Options - Half-Size Textures Addon",
+        "masters": [],
+        "name": "Half-Size with Skyrim HD Weathered Furniture",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "",
+        "group": "Xtra Options - Ultra-Sized Textures Addon",
+        "masters": [],
+        "name": "Ultra-Sized 4096x4096 Textures",
+        "selectionState": "Available",
+        "step": "Skyrim Special Edition Custom Install"
+      },
+      {
+        "fileName": "95 Merged ESP SE All\\SMIM-SE-Merged-All.esp",
+        "group": "Merged Plugin Special Edition Forced Install",
+        "masters": [],
+        "name": "Special Edition Merged Plugin Will Be Installed",
+        "selectionState": "Selected",
+        "step": "Merged Plugin Special Edition Forced Install"
+      },
+      {
+        "fileName": "95 Merged ESP SE No Riften Ropes\\SMIM-SE-Merged-NoRiftenRopes.esp",
+        "group": "Merged Plugin Special Edition No Riften Ropes Forced Install",
+        "masters": [],
+        "name": "Special Edition No Riften Ropes Merged Plugin Will Be Installed",
+        "selectionState": "Selected",
+        "step": "Merged Plugin Special Edition No Riften Ropes Forced Install"
+      },
+      {
+        "fileName": "95 Merged ESP SE No Riften Ropes No Solitude Ropes\\SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp",
+        "group": "Merged Plugin Special Edition No Riften Ropes Forced Install",
+        "masters": [],
+        "name": "Special Edition No Riften Ropes Merged Plugin Will Be Installed",
+        "selectionState": "Selected",
+        "step": "Merged Plugin Special Edition No Riften Ropes Forced Install"
+      }
+    ]
+  },
+  {
+    "displayName": "Static Mesh Improvement Mod Improvement Mod",
+    "modId": 55543,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Meshes",
+        "masters": [],
+        "name": "Hawk",
+        "selectionState": "Selected",
+        "step": "Optional",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Meshes",
+        "masters": [],
+        "name": "Dwemer post alternative",
+        "selectionState": "Selected",
+        "step": "Optional"
+      },
+      {
+        "fileName": "",
+        "group": "Textures",
+        "masters": [],
+        "name": "Apples",
+        "selectionState": "Deselected",
+        "step": "Optional",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mods",
+        "masters": [],
+        "name": "Dynamic Things Alternative",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Dynamic Things Alternative.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mods",
+        "masters": [],
+        "name": "Real Rabbits HD",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "RealRabbitsHD.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mods",
+        "masters": [],
+        "name": "Wiseman's Flora Fixes",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WM Flora Fixes.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mods",
+        "masters": [],
+        "name": "SMIM Quality Add-On",
+        "selectionState": "Selected",
+        "step": "Patches"
+      },
+      {
+        "fileName": "",
+        "group": "Shell",
+        "masters": [],
+        "name": "Shell",
+        "selectionState": "Selected",
+        "step": "Real Rabbits HD"
+      },
+      {
+        "fileName": "",
+        "group": "Shell",
+        "masters": [],
+        "name": "No Shell",
+        "selectionState": "Available",
+        "step": "Real Rabbits HD"
+      }
+    ]
+  },
+  {
+    "displayName": "Dynamic Things Alternative - Base Object Swapper",
+    "modId": 60741,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Fishing Creation",
+        "masters": [],
+        "name": "Fishing Creation",
+        "selectionState": "Selected",
+        "step": "Step1",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccBGSSSE001-Fish.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Dual Casting Fix",
+    "modId": 92454,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Alchemy XP Fix",
+    "modId": 117389,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "College of Winterhold Quest Start Fixes",
+    "modId": 53817,
+    "options": [
+      {
+        "fileName": "regular\\College of Winterhold Quest Start Fixes.esp",
+        "group": "",
+        "masters": [],
+        "name": "Vanilla (Regular)",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Cutting Room Floor.esp",
+                  "state": "Inactive"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "crf\\College of Winterhold Quest Start Fixes.esp",
+        "group": "",
+        "masters": [
+          "Cutting Room Floor.esp"
+        ],
+        "name": "Cutting Room Floor",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Cutting Room Floor.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Grain Mill Animation Fix",
+    "modId": 130679,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Nemesis or Lazy",
+        "masters": [],
+        "name": "Nemesis version",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Nemesis or Lazy",
+        "masters": [],
+        "name": "Lazy version",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Grain Mill Animation Snap",
+        "masters": [],
+        "name": "Grain Mill Animation Snap",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Water Effects Brightness and Reflection Fix",
+    "modId": 63862,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Vanilla Dyndolod meshes",
+        "masters": [],
+        "name": "Install vanilla Dyndolod meshes",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "nchardak waterfall fix.esp",
+        "group": "Nchardak waterfall fix",
+        "masters": [],
+        "name": "Install Nchardak waterfall fix",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Skyrim Particle Patch fix",
+        "masters": [],
+        "name": "Install Skyrim Particle Patch fix",
+        "selectionState": "Deselected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Here We Go Again - World Interactions",
+    "modId": 37207,
+    "options": [
+      {
+        "fileName": "Default\\HereWeGoAgain.esp",
+        "group": "Here We Go Again",
+        "masters": [],
+        "name": "Vanilla quests",
+        "selectionState": "Available",
+        "step": "Here We Go Again"
+      },
+      {
+        "fileName": "IWE\\HereWeGoAgain.esp",
+        "group": "Here We Go Again",
+        "masters": [
+          "Immersive Encounters.esp"
+        ],
+        "name": "Vanilla quests IWE",
+        "selectionState": "Available",
+        "step": "Here We Go Again"
+      },
+      {
+        "fileName": "NoFight\\HereWeGoAgain.esp",
+        "group": "Here We Go Again",
+        "masters": [
+          "Immersive Encounters.esp"
+        ],
+        "name": "No 'Fight over item'",
+        "selectionState": "Selected",
+        "step": "Here We Go Again"
+      },
+      {
+        "fileName": "IWENoFight\\HereWeGoAgain.esp",
+        "group": "Here We Go Again",
+        "masters": [
+          "Immersive Encounters.esp"
+        ],
+        "name": "No 'Fight over item' IWE",
+        "selectionState": "Available",
+        "step": "Here We Go Again"
+      }
+    ]
+  },
+  {
+    "displayName": "Beard Mask Fix",
+    "modId": 80232,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim Special Edition",
+        "selectionState": "Selected",
+        "step": "Game Version"
+      },
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim VR",
+        "selectionState": "Available",
+        "step": "Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "SkyrimVR.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Select Addons",
+        "masters": [],
+        "name": "Vanilla Masks",
+        "selectionState": "Selected",
+        "step": "Extras",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Green Thumb Fix",
+    "modId": 167824,
+    "options": [
+      {
+        "fileName": "core\\GreenThumbFix.esp",
+        "group": "Perk Mod",
+        "masters": [],
+        "name": "Not Adamant",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Adamant.esp",
+                  "state": "Inactive"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "adamant\\GreenThumbFix.esp",
+        "group": "Perk Mod",
+        "masters": [
+          "Adamant.esp"
+        ],
+        "name": "Adamant",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Adamant.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "What is excluded from Green Thumb",
+        "masters": [],
+        "name": "Strict",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "What is excluded from Green Thumb",
+        "masters": [],
+        "name": "Medium",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "What is excluded from Green Thumb",
+        "masters": [],
+        "name": "Lax",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Green Thumb perk description",
+        "masters": [],
+        "name": "Revert USSEP perk description",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Adamant.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "NotUsable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Angi's Camp Archery Targets",
+    "modId": 178568,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Collision",
+        "masters": [],
+        "name": "Accurate collision (harder)",
+        "selectionState": "Selected",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Collision",
+        "masters": [],
+        "name": "Vanilla collision (easier)",
+        "selectionState": "Available",
+        "step": "Step1"
+      }
+    ]
+  },
+  {
+    "displayName": "Weapon Damage Display Fix",
+    "modId": 169690,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "SkyUI",
+        "selectionState": "Selected",
+        "step": "Step1",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Dear Diary",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Dear Diary Dark Mode warm text",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Dear Diary Dark Mode white text",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Edge UI 16x9",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Edge UI 21x9",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Immortal UI",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Norden UI",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Norden UI Playstation",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Nordic UI",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Oathvein UI 1",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Oathvein UI 2",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Oathvein UI slim",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Untarnished UI",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Untarnished UI SAS",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "SkyUI Sunhelm, Survival Mode Improved, Survival Mode Integration",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "SkyUI VR",
+        "selectionState": "Available",
+        "step": "Step1"
+      }
+    ]
+  },
+  {
+    "displayName": "DynDOLOD Resources SE",
+    "modId": 52897,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DynDOLOD Resources",
+        "masters": [],
+        "name": "Core Files",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Required"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Visual Options",
+        "masters": [],
+        "name": "Whiterun Exterior Grass",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Visual Options",
+        "masters": [],
+        "name": "Solitude Occlusion Planes",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Visual Options",
+        "masters": [],
+        "name": "High Hrothgar Window Glow",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Visual Options",
+        "masters": [],
+        "name": "DLC2 Vvardenfell 3D Plume",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Performance Options",
+        "masters": [],
+        "name": "Low-Res LOD Textures",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Misc Options",
+        "masters": [],
+        "name": "Desync Birds of Prey",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Misc Options",
+        "masters": [],
+        "name": "Holy Cow",
+        "selectionState": "Available",
+        "step": "Options"
+      }
+    ]
+  },
+  {
+    "displayName": "Lod Model Library for DynDOLOD",
+    "modId": 87521,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Mods",
+        "masters": [],
+        "name": "Skyrim Extended Cut - Saints and Seducers",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Skyrim Extended Cut - Saints and Seducers.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "A Clear Map of Skyrim and Other Worlds",
+    "modId": 56367,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Core Files",
+        "masters": [],
+        "name": "Core Files",
+        "selectionState": "Selected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Required"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DynDOLOD rules",
+        "masters": [],
+        "name": "DynDOLOD 2",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "DynDOLOD rules",
+        "masters": [],
+        "name": "DynDOLOD 3",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "DynDOLOD rules",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "LOD Setup",
+        "masters": [],
+        "name": "No DynDOLOD LOD32",
+        "selectionState": "Available",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "LOD Setup",
+        "masters": [],
+        "name": "With DynDOLOD LOD32",
+        "selectionState": "Selected",
+        "step": "Options"
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Beyond Reach",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "arnima.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Bruma",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "BSHeartland.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Falskaar",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Falskaar.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Midwood Isle",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Midwood Isle.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Wyrmstooth",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Wyrmstooth.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other Worlds",
+        "masters": [],
+        "name": "Vominheim",
+        "selectionState": "Available",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Vominheim.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Optional Components",
+        "masters": [],
+        "name": "Remove Clouds",
+        "selectionState": "Deselected",
+        "step": "Options",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Worldspace Transition Tweaks",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WTT - Skyrim-Solstheim - Worldsettings.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Enhanced Worldspace Maps",
+    "modId": 57176,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Skyrim",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Blackreach",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Sovngarde",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Soul Cairn",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Forgotten Vale",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Solstheim",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Maps",
+        "masters": [],
+        "name": "Deadlands",
+        "selectionState": "Available",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccbgssse067-daedinv.esm",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Blackreach Addons",
+        "masters": [],
+        "name": "Less Standard Map Markers",
+        "selectionState": "Available",
+        "step": "Blackreach Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Blackreach Addons",
+        "masters": [],
+        "name": "No Standard Map Markers",
+        "selectionState": "Available",
+        "step": "Blackreach Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Blackreach Addons",
+        "masters": [],
+        "name": "More Worldspace Travel Markers",
+        "selectionState": "Available",
+        "step": "Blackreach Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Blackreach Addons",
+        "masters": [],
+        "name": "No Worldspace Travel Markers",
+        "selectionState": "Available",
+        "step": "Blackreach Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Blackreach Addons",
+        "masters": [],
+        "name": "A Tale of Blood and Snow Patch",
+        "selectionState": "Available",
+        "step": "Blackreach Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "dv01vampireclanwar.esm",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Soul Cairn Addons",
+        "masters": [],
+        "name": "No Standard Map Markers",
+        "selectionState": "Available",
+        "step": "Soul Cairn Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Soul Cairn Addons",
+        "masters": [],
+        "name": "No Worldspace Travel Markers",
+        "selectionState": "Available",
+        "step": "Soul Cairn Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Soul Cairn Addons",
+        "masters": [],
+        "name": "Skyrim Cut Content Restoration Patch",
+        "selectionState": "Available",
+        "step": "Soul Cairn Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "CutContentRestoration.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Forgotten Vale Addons",
+        "masters": [],
+        "name": "More Standard Map Markers",
+        "selectionState": "Selected",
+        "step": "Forgotten Vale Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WHYDOESVORTEXHATETHISFOMOD.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Forgotten Vale Addons",
+        "masters": [],
+        "name": "Echoes of the Vale Patch",
+        "selectionState": "Available",
+        "step": "Forgotten Vale Optional Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "echoesofthevale.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Deadlands Addons",
+        "masters": [],
+        "name": "No Worldspace Travel Markers",
+        "selectionState": "Available",
+        "step": "Deadlands Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccbgssse067-daedinv.esm",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Deadlands Addons",
+        "masters": [],
+        "name": "The Cause - Reduced Cut Patch",
+        "selectionState": "Selected",
+        "step": "Deadlands Addons",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "CauseReducedCut.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mod Maps",
+        "masters": [],
+        "name": "Beyond Skyrim - Bruma",
+        "selectionState": "Available",
+        "step": "Mod Support",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "BSHeartland.esm",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mod Maps",
+        "masters": [],
+        "name": "Siege at Icemoth",
+        "selectionState": "Available",
+        "step": "Mod Support",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Siege at Icemoth.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Mod Maps",
+        "masters": [],
+        "name": "Wyrmstooth",
+        "selectionState": "Available",
+        "step": "Mod Support",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Wyrmstooth.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Optional"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "CoMAP",
+    "modId": 56123,
+    "options": [
+      {
+        "fileName": "",
+        "group": "CoMAP Core Pack",
+        "masters": [],
+        "name": "CoMAP for Skyrim 1.6.x",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Configs",
+        "masters": [],
+        "name": "CoMAP Config Pack",
+        "selectionState": "Selected",
+        "step": "Core Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Question Mark",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Small Diamond",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Big Diamond",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Circle",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Small Hollow Diamond",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Big Hollow Diamond",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Hollow Circle",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Obscured Undiscovered Markers - Pogfish of Destiny",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "Invisible Undiscovered Markers",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Obscured Undiscovered Options",
+        "masters": [],
+        "name": "NORDIC UI Default Question Mark",
+        "selectionState": "Available",
+        "step": "Undiscovered Marker Options"
+      },
+      {
+        "fileName": "",
+        "group": "Khajiit Caravan Markers",
+        "masters": [],
+        "name": "Hidden Until Discovered",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Khajiit Caravan Markers",
+        "masters": [],
+        "name": "Visible Until Discovered",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Jorrvaskr Map Marker",
+        "masters": [],
+        "name": "Jorrvaskr Map Marker (Closed City)",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Jorrvaskr Map Marker",
+        "masters": [],
+        "name": "Jorrvaskr Map Marker (Open City)",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Vigilants of Stendarr Map Marker",
+        "masters": [],
+        "name": "Hall of the Vigilant and Stendarr's Beacon",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Vigilants of Stendarr Map Marker",
+        "masters": [],
+        "name": "Hall of the Vigilant Only",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Other Addons",
+        "masters": [],
+        "name": "Ruined Map Markers Use Original Outline",
+        "selectionState": "Selected",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Other Addons",
+        "masters": [],
+        "name": "Altars and Shrines",
+        "selectionState": "Available",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Other Addons",
+        "masters": [],
+        "name": "Abandoned Mines Use Vanilla Design",
+        "selectionState": "Selected",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Other Addons",
+        "masters": [],
+        "name": "Orc Only Bandit Locations Use Orc Stronghold Marker",
+        "selectionState": "Deselected",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Other Addons",
+        "masters": [],
+        "name": "Hearthfire (and Tundra Homestead) Uses Settlement",
+        "selectionState": "Selected",
+        "step": "Addons"
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Extensions",
+        "masters": [],
+        "name": "Bruma - CoMAP Extension",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "BSHeartland.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Ayleid Ruins (BS to CoMAP)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim"
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Ayleid Ruins (Adjusted BS)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "BSHeartland.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Bruma Castle (BS to CoMAP) [Unique]",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "BSHeartland.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "Or"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Bruma City (BS to CoMAP)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim"
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Minotaur Camp (BS to CoMAP)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim"
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Morrowind Dwemer (BS to CoMAP)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim"
+      },
+      {
+        "fileName": "",
+        "group": "Beyond Skyrim Design Swaps",
+        "masters": [],
+        "name": "Redguard Ruin (CoMAP to BS)",
+        "selectionState": "Available",
+        "step": "Beyond Skyrim"
+      }
+    ]
+  },
+  {
+    "displayName": "SkyPatcher - NARC Remade",
+    "modId": 156485,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Select the version you would like",
+        "masters": [],
+        "name": "Original",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Select the version you would like",
+        "masters": [],
+        "name": "Tweaked",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Select the version you would like",
+        "masters": [],
+        "name": "Tweaked with Spouses",
+        "selectionState": "Selected",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Select the version you would like",
+        "masters": [],
+        "name": "Animals Only",
+        "selectionState": "Available",
+        "step": "Installation"
+      }
+    ]
+  },
+  {
+    "displayName": "MCM Helper",
+    "modId": 53000,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim Special Edition",
+        "selectionState": "Selected",
+        "step": "Game Version"
+      },
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim VR",
+        "selectionState": "Available",
+        "step": "Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "SkyrimVR.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "ESP\\MCMHelper.esp",
+        "group": "Plugin",
+        "masters": [
+          "SkyUI_SE.esp"
+        ],
+        "name": "ESP",
+        "selectionState": "Available",
+        "step": "Mod Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "flagDependencies": [
+                {
+                  "flag": "SkyrimVR",
+                  "value": "On"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "ESL\\MCMHelper.esp",
+        "group": "Plugin",
+        "masters": [
+          "SkyUI_SE.esp"
+        ],
+        "name": "ESL",
+        "selectionState": "Selected",
+        "step": "Mod Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "flagDependencies": [
+                {
+                  "flag": "SkyrimSE",
+                  "value": "On"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Resources",
+        "masters": [],
+        "name": "BSA",
+        "selectionState": "Selected",
+        "step": "Mod Files"
+      },
+      {
+        "fileName": "",
+        "group": "Resources",
+        "masters": [],
+        "name": "Loose",
+        "selectionState": "Available",
+        "step": "Mod Files",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "flagDependencies": [
+                {
+                  "flag": "SkyrimVR",
+                  "value": "On"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "SkyUI Item Card Fixes",
+    "modId": 29116,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Without Frostfall",
+        "masters": [],
+        "name": "Default ItemCard Fixes",
+        "selectionState": "Selected",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Without Frostfall",
+        "masters": [],
+        "name": "Font Overhaul ItemCard Fixes",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Without Frostfall",
+        "masters": [],
+        "name": "Sovngarde ItemCard Fixes",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "Without Frostfall",
+        "masters": [],
+        "name": "Enderal ItemCard Fixes",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "With Frostfall",
+        "masters": [],
+        "name": "Default ItemCard Fixes - Frostfall",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "With Frostfall",
+        "masters": [],
+        "name": "Font Overhaul ItemCard Fixes - Frostfall",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "With Frostfall",
+        "masters": [],
+        "name": "Sovngarde ItemCard Fixes - Frostfall",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "With Frostfall",
+        "masters": [],
+        "name": "Enderal ItemCard Fixes - Frostfall",
+        "selectionState": "Available",
+        "step": "Step1"
+      }
+    ]
+  },
+  {
+    "displayName": "Remove QuickSave Button from SkyUI System Menu",
+    "modId": 28334,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "1a - Save-Load-etc",
+        "selectionState": "Selected",
+        "step": "Choose the option you like"
+      },
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "2a - Save-MCM-etc",
+        "selectionState": "Available",
+        "step": "Choose the option you like"
+      },
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "3a - MCM-Save-etc",
+        "selectionState": "Available",
+        "step": "Choose the option you like"
+      },
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "1b - Save-Load-etc, MCM renamed",
+        "selectionState": "Available",
+        "step": "Choose the option you like"
+      },
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "2b - Save-MCM-etc, MCM renamed",
+        "selectionState": "Available",
+        "step": "Choose the option you like"
+      },
+      {
+        "fileName": "",
+        "group": "Options:",
+        "masters": [],
+        "name": "3b - MCM-Save-etc, MCM renamed",
+        "selectionState": "Available",
+        "step": "Choose the option you like"
+      }
+    ]
+  },
+  {
+    "displayName": "Quest Journal Fixes",
+    "modId": 108618,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Fixed Journal",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 1a",
+        "selectionState": "Selected",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 2a",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 3a",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 1b",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 2b",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "SkyUI - Remove Quicksave 3b",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Vanilla SkyUI",
+        "masters": [],
+        "name": "Skip",
+        "selectionState": "Available",
+        "step": "Pick your patch",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "NORDIC UI",
+        "masters": [],
+        "name": "NORDIC UI - Fixed Journal",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "NORDIC UI",
+        "masters": [],
+        "name": "NORDIC UI - Remove Quicksave",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "NORDIC UI",
+        "masters": [],
+        "name": "Skip",
+        "selectionState": "Selected",
+        "step": "Pick your patch",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Dear Diary White",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Dear Diary Dark Mode (White text)",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Dear Diary Dark Mode (Warm text)",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Dragonbreaker UI - Background",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Dragonbreaker UI - No Background",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Untarnished UI",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "New Horizons UI",
+        "selectionState": "Available",
+        "step": "Pick your patch"
+      },
+      {
+        "fileName": "",
+        "group": "Dear Diary",
+        "masters": [],
+        "name": "Skip",
+        "selectionState": "Selected",
+        "step": "Pick your patch",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Ash Pile Expiration - Special Edition",
+    "modId": 5710,
+    "options": [
+      {
+        "fileName": "00 ESP 01hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "1 hour",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "00 ESP 03hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "3 hour",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "00 ESP 06hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "6 hour",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "00 ESP 12hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "12 hour",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "00 ESP 24hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "1 day",
+        "selectionState": "Available",
+        "step": "Step1"
+      },
+      {
+        "fileName": "00 ESP 72hr\\Ash Pile Expiration.esp",
+        "group": "Time Interval Plugin",
+        "masters": [],
+        "name": "3 days",
+        "selectionState": "Selected",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "BSA or Loose Script",
+        "masters": [],
+        "name": "BSA Archive",
+        "selectionState": "Selected",
+        "step": "Step1"
+      },
+      {
+        "fileName": "",
+        "group": "BSA or Loose Script",
+        "masters": [],
+        "name": "Loose Script",
+        "selectionState": "Available",
+        "step": "Step1"
+      }
+    ]
+  },
+  {
+    "displayName": "Robber's Gorge Fixes",
+    "modId": 81495,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Compatibility Patch",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Selected",
+        "step": ""
+      },
+      {
+        "fileName": "patches/Robber's Gorge Fixes - OBIS Patch.esp",
+        "group": "Compatibility Patch",
+        "masters": [
+          "Robber's Gorge Fixes.esp",
+          "OBIS SE.esp"
+        ],
+        "name": "OBIS - Organized Bandits In Skyrim",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "OBIS SE.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "patches/Robber's Gorge Fixes - Requiem Patch.esp",
+        "group": "Compatibility Patch",
+        "masters": [
+          "Robber's Gorge Fixes.esp",
+          "Requiem.esp"
+        ],
+        "name": "Requiem - The Roleplaying Overhaul",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Requiem.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Quest Fixes",
+    "modId": 140181,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Optional Modules",
+        "masters": [],
+        "name": "A False Front Fix",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "QF_CWFinale_000D1444.pex",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Selected",
+        "step": "Patches"
+      },
+      {
+        "fileName": "",
+        "group": "QF_CWFinale_000D1444.pex",
+        "masters": [],
+        "name": "CIVIL WAR OVERHAUL - Redux",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Civil War Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "QF_CWFinale_000D1444.pex",
+        "masters": [],
+        "name": "Serious Civil War Finale Sieges",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Serious Civil War Finale Sieges.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other",
+        "masters": [],
+        "name": "Relationship Dialogue Overhaul",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Relationship Dialogue Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "A False Front Fix Module",
+        "masters": [],
+        "name": "CIVIL WAR OVERHAUL - Redux",
+        "selectionState": "Available",
+        "step": "Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Civil War Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "flagDependencies": [
+                {
+                  "flag": "a_false_front_fix",
+                  "value": "Selected"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Thieves Guild Holdup Improvements",
+    "modId": 160024,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Immersive Citizens",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Immersive Citizens - AI Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches - Thieves Guild Master Recognition / Val Serano",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Selected",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Patches - Thieves Guild Master Recognition / Val Serano",
+        "masters": [],
+        "name": "Thieves Guild Master Recognition",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Thieves Guild Master Recognition.esp",
+                  "state": "Active"
+                }
+              ],
+              "nestedDependencies": [
+                {
+                  "fileDependencies": [
+                    {
+                      "file": "AX ValSerano.esp",
+                      "state": "Missing"
+                    },
+                    {
+                      "file": "AX ValSerano.esp",
+                      "state": "Inactive"
+                    }
+                  ],
+                  "operator": "Or"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches - Thieves Guild Master Recognition / Val Serano",
+        "masters": [],
+        "name": "Val Serano",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "AX ValSerano.esp",
+                  "state": "Active"
+                }
+              ],
+              "nestedDependencies": [
+                {
+                  "fileDependencies": [
+                    {
+                      "file": "Thieves Guild Master Recognition.esp",
+                      "state": "Missing"
+                    },
+                    {
+                      "file": "Thieves Guild Master Recognition.esp",
+                      "state": "Inactive"
+                    }
+                  ],
+                  "operator": "Or"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches - Thieves Guild Master Recognition / Val Serano",
+        "masters": [],
+        "name": "Val Serano + Thieves Guild Master Recognition",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Thieves Guild Master Recognition.esp",
+                  "state": "Active"
+                },
+                {
+                  "file": "AX ValSerano.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "200 or less (Vanilla)",
+        "selectionState": "Selected",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "500 or less",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "1000 or less",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "2000 or less",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "5000 or less",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "10000 or less",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "25%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "50%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "75%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "80%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "85%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "90%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "95%",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "How much gold you give to the thief (Preset)",
+        "masters": [],
+        "name": "100%",
+        "selectionState": "Available",
+        "step": ""
+      }
+    ]
+  },
+  {
+    "displayName": "The Clever Prisoner",
+    "modId": 84348,
+    "options": [
+      {
+        "fileName": "",
+        "group": "The Clever Prisoner",
+        "masters": [],
+        "name": "Default version",
+        "selectionState": "Selected",
+        "step": "The Clever Prisoner",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "TrulyNeutralPrisoners.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "The Clever Prisoner",
+        "masters": [],
+        "name": "TNP version",
+        "selectionState": "Available",
+        "step": "The Clever Prisoner",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "TrulyNeutralPrisoners.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Not All Prisoners Are So Clever",
+        "masters": [],
+        "name": "Not All Prisoners Are So Clever",
+        "selectionState": "Selected",
+        "step": "Not All Prisoners Are So Clever"
+      }
+    ]
+  },
+  {
+    "displayName": "Imperial Thalmor Stormcloak Patrols Fixes",
+    "modId": 166044,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "ELAF Freed Prisoner Fix",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ELAF PrisonerFix.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "Freed Prisoner Uses Items",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "Immersive Citizens",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Immersive Citizens - AI Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "Immersive Citizens + Freed Prisoner Uses Items",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Immersive Citizens - AI Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Installed prisoner mod",
+        "masters": [],
+        "name": "The Clever Prisoner",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "TheCleverPrisoner.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Other installed mods",
+        "masters": [],
+        "name": "The Second Great War",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "GreatWarSkyrim.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Neutral Whiterun Guards",
+    "modId": 70197,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Crime Overhaul",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Crime Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Immersive Aggressive Opponents",
+    "modId": 70236,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Optional Modules",
+        "masters": [],
+        "name": "Forsworn Armor",
+        "selectionState": "Selected",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Which armor slots to check?",
+        "masters": [],
+        "name": "All",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Which armor slots to check?",
+        "masters": [],
+        "name": "All, Exclude Stormcloak Gauntlets and Boots",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Which armor slots to check?",
+        "masters": [],
+        "name": "Cuirasses Only",
+        "selectionState": "Available",
+        "step": ""
+      }
+    ]
+  },
+  {
+    "displayName": "Rock Traps Trigger Fixes",
+    "modId": 81587,
+    "options": [
+      {
+        "fileName": "patches/Rock Traps Trigger Fixes - Falkreath Bandits Downfall Patch.esp",
+        "group": "Patches",
+        "masters": [
+          "Rock Traps Trigger Fixes.esp",
+          "Falkreath Bandits Downfall.esp"
+        ],
+        "name": "Falkreath Bandit's Downfall",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Falkreath Bandits Downfall.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "patches/Rock Traps Trigger Fixes - LCO_PinefallBridge Patch.esp",
+        "group": "Patches",
+        "masters": [
+          "Rock Traps Trigger Fixes.esp",
+          "LCO_Framework.esp",
+          "LCO_PinefallBridge.esp"
+        ],
+        "name": "Lawbringer - Pinefall Bridge",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "LCO_PinefallBridge.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "patches/Rock Traps Trigger Fixes - Pinewatch Pass Reclaimed Patch.esp",
+        "group": "Patches",
+        "masters": [
+          "Rock Traps Trigger Fixes.esp",
+          "Pinewatch Pass Reclaimed.esp"
+        ],
+        "name": "Pinewatch Pass Reclaimed",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Pinewatch Pass Reclaimed.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "patches/Rock Traps Trigger Fixes - SRC All In One Patch.esp",
+        "group": "Patches",
+        "masters": [
+          "Rock Traps Trigger Fixes.esp",
+          "SRC - All In One.esp"
+        ],
+        "name": "Skyrim Realistic Conquering - All In One",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "SRC - All In One.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "patches/Rock Traps Trigger Fixes - SRC Pinewatch Patch.esp",
+        "group": "Patches",
+        "masters": [
+          "Rock Traps Trigger Fixes.esp",
+          "SRC - PST + Pinewatch Checkpoint.esp"
+        ],
+        "name": "Skyrim Realistic Conquering - Peak's Shade Tower and Pinewatch Checkpoint",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "SRC - PST + Pinewatch Checkpoint.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Sawmill Activation Fix",
+    "modId": 138750,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Fixes to install",
+        "masters": [],
+        "name": "First fix",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Required"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Fixes to install",
+        "masters": [],
+        "name": "(READ DESCRIPTION) Second fix",
+        "selectionState": "Available",
+        "step": ""
+      }
+    ]
+  },
+  {
+    "displayName": "Disintegration Perk Fix",
+    "modId": 180591,
+    "options": [
+      {
+        "fileName": "Vanilla\\DisintegrationFix.esp",
+        "group": "Disintegration Perk Fix",
+        "masters": [],
+        "name": "Perk Fix",
+        "selectionState": "Available",
+        "step": "Disintegration Perk Fix"
+      },
+      {
+        "fileName": "NoMechs\\DisintegrationFix.esp",
+        "group": "Disintegration Perk Fix",
+        "masters": [],
+        "name": "Perk Fix - no dwarven",
+        "selectionState": "Selected",
+        "step": "Disintegration Perk Fix"
+      }
+    ]
+  },
+  {
+    "displayName": "Enhanced Reanimation",
+    "modId": 43500,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.629+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6.353 (\"Anniversary Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "CopyPasteInMenus",
+    "modId": 178439,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "ConsolePlusPlus",
+    "modId": 79975,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "VR v1.4.15 (\"Skyrim VR\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Save Unbaker",
+    "modId": 85565,
+    "options": [
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.6+ (\"Anniversary Edition\")",
+        "selectionState": "Selected",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "DLL",
+        "masters": [],
+        "name": "SSE v1.5.97 (\"Special Edition\")",
+        "selectionState": "Available",
+        "step": "Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Optional"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "SaveLoadAcceleratorForSKSECosaves",
+    "modId": 163969,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.1170; SKSE64 v2.2.6",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.1130; SKSE64 v2.2.5",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.640; SKSE64 v2.2.3",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.353; SKSE64 v2.1.5",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim SE v1.5.97; SKSE64 v2.0.20",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim VR v1.4.15; SKSEVR v2.0.12",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.1179 (GOG); SKSE64 v2.2.6 (GOG)",
+        "selectionState": "Selected",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Please select your version of the game:",
+        "masters": [],
+        "name": "Skyrim AE v1.6.659 (GOG); SKSE64 v2.2.3 (GOG)",
+        "selectionState": "Available",
+        "step": "By Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Dragonactorscript infinite loop fix",
+    "modId": 87940,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Main - fail silently",
+        "selectionState": "Selected",
+        "step": "Choose your version"
+      },
+      {
+        "fileName": "",
+        "group": "Options",
+        "masters": [],
+        "name": "Alternative - absorb anywhere",
+        "selectionState": "Available",
+        "step": "Choose your version"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Dragon War",
+        "selectionState": "Available",
+        "step": "Patches - Main",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "DragonWar.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Dragon War",
+        "selectionState": "Available",
+        "step": "Patches - Alt",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "DragonWar.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "TrapSwingingWall Script Fix",
+    "modId": 61978,
+    "options": [
+      {
+        "fileName": "",
+        "group": "TrapSwingingWall Script Fix",
+        "masters": [],
+        "name": "Vanilla",
+        "selectionState": "Available",
+        "step": "TrapSwingingWall Script Fix"
+      },
+      {
+        "fileName": "",
+        "group": "TrapSwingingWall Script Fix",
+        "masters": [],
+        "name": "Improved Traps",
+        "selectionState": "Selected",
+        "step": "TrapSwingingWall Script Fix",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Improved Traps.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "TrapSwingingWall Script Fix",
+        "masters": [],
+        "name": "Lethal Traps",
+        "selectionState": "Available",
+        "step": "TrapSwingingWall Script Fix",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Lethal Traps.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Glowing Mushroom Collision Fixes",
+    "modId": 69558,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Installation Information",
+        "masters": [],
+        "name": "Continue",
+        "selectionState": "Selected",
+        "step": "Installation:"
+      },
+      {
+        "fileName": "",
+        "group": "Help Info",
+        "masters": [],
+        "name": "Continue",
+        "selectionState": "Selected",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Selected",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "High Poly Project",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Skyrim Particle Patch for ENB",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "High Poly Project AND Skyrim Particle Patch",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Glowing Mushrooms by Mari OR Mari's Flora",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Diverse Mari's Glowing Mushrooms by ModiLogist",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Rudy HQ - More Lights for ENB SE - Glowing Mushrooms",
+        "selectionState": "Available",
+        "step": "Select An Optional Patch:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Mesh Type",
+        "masters": [],
+        "name": "Default",
+        "selectionState": "Selected",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Mesh Type",
+        "masters": [],
+        "name": "ENB",
+        "selectionState": "Available",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Colour",
+        "masters": [],
+        "name": "Blue",
+        "selectionState": "Selected",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Colour",
+        "masters": [],
+        "name": "Gold",
+        "selectionState": "Available",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Colour",
+        "masters": [],
+        "name": "Green",
+        "selectionState": "Available",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Colour",
+        "masters": [],
+        "name": "Red",
+        "selectionState": "Available",
+        "step": "Mari's Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Mesh Type",
+        "masters": [],
+        "name": "Default",
+        "selectionState": "Selected",
+        "step": "Diverse Mari's Glowing Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Select a Mesh Type",
+        "masters": [],
+        "name": "ENB",
+        "selectionState": "Available",
+        "step": "Diverse Mari's Glowing Mushrooms:"
+      },
+      {
+        "fileName": "",
+        "group": "Confirm Choices?",
+        "masters": [],
+        "name": "Continue",
+        "selectionState": "Selected",
+        "step": "Confirm Installation:"
+      }
+    ]
+  },
+  {
+    "displayName": "Ethereal Immunity",
+    "modId": 69744,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Version",
+        "masters": [],
+        "name": "Vanilla",
+        "selectionState": "Selected",
+        "step": "Main"
+      },
+      {
+        "fileName": "",
+        "group": "Version",
+        "masters": [],
+        "name": "Vokrii",
+        "selectionState": "Available",
+        "step": "Main"
+      },
+      {
+        "fileName": "",
+        "group": "Optional",
+        "masters": [],
+        "name": "Lava Patch",
+        "selectionState": "Selected",
+        "step": "Main"
+      }
+    ]
+  },
+  {
+    "displayName": "Fully Harvest Hanging Carcasses and Coin Purses",
+    "modId": 86751,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "CC Fishing",
+        "selectionState": "Selected",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccBGSSSE001-Fish.esm",
+                  "state": "Active"
+                },
+                {
+                  "file": "cc-fishing_caco_patch.esp",
+                  "state": "Inactive"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccBGSSSE001-Fish.esm",
+                  "state": "Active"
+                },
+                {
+                  "file": "cc-fishing_caco_patch.esp",
+                  "state": "Missing"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "CC Fishing for Complete Alchemy and Cooking Overhaul",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccBGSSSE001-Fish.esm",
+                  "state": "Active"
+                },
+                {
+                  "file": "cc-fishing_caco_patch.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Apothecary",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Apothecary.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Ars Metallica",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Ars Metallica.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "C.O.I.N.",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "C.O.I.N.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Complete Alchemy and Cooking Overhaul",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Complete Alchemy & Cooking Overhaul.esp",
+                  "state": "Active"
+                }
+              ],
+              "nestedDependencies": [
+                {
+                  "fileDependencies": [
+                    {
+                      "file": "JS Purses and Septims SE Patch.esp",
+                      "state": "Missing"
+                    },
+                    {
+                      "file": "JS Purses and Septims SE Patch.esp",
+                      "state": "Inactive"
+                    }
+                  ],
+                  "operator": "Or"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "JS Purses and Septims: Path Relocation",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "JS Purses and Septims SE Patch.esp",
+                  "state": "Active"
+                }
+              ],
+              "nestedDependencies": [
+                {
+                  "fileDependencies": [
+                    {
+                      "file": "Complete Alchemy & Cooking Overhaul.esp",
+                      "state": "Missing"
+                    },
+                    {
+                      "file": "Complete Alchemy & Cooking Overhaul.esp",
+                      "state": "Inactive"
+                    }
+                  ],
+                  "operator": "Or"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Complete Alchemy and Cooking Overhaul + JS Purses and Septims: Path Relocation",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Complete Alchemy & Cooking Overhaul.esp",
+                  "state": "Active"
+                },
+                {
+                  "file": "JS Purses and Septims SE Patch.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Fluffy Hanging Real Rabbits - All Colors - Wise (option d)",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Shell Textured Hanging Rabbits_BOS.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Gourmet",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Gourmet.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Hanging Dead Chickens- Mihail's Shards of Immersion",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "mihailhangingchickens.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Hanging Dead Rabbits Replacer- Mihail's Shards of Immersion",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Hanging Dead Pheasants Replacer- Mihail's Shards of Immersion",
+        "selectionState": "Available",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Fluffy Hanging Dead Rabbits Replacer (High)",
+        "selectionState": "Deselected",
+        "step": ""
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Mihail Bantam Guars - Tweaks and Fixes",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "mihailbantamguar.esp",
+                  "state": "Active"
+                },
+                {
+                  "file": "Fully Harvest Hanging Carcasses - Mihail Bantam Guars.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          },
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "mihailbantamguar.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Optional"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Nature's Bounty: Pheasant Encounters - Mihail's Pheasant Patch",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "JELPheasants - Mihail Pheasant Patch.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Wiseman303's Flora Fixes (with scripts) - READ DESCRIPTION",
+        "selectionState": "Available",
+        "step": "",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "WM Flora Fixes.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Enchantable Special Item Fix",
+    "modId": 65154,
+    "options": [
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim Special Edition",
+        "selectionState": "Selected",
+        "step": "Game Version"
+      },
+      {
+        "fileName": "",
+        "group": "Game Version",
+        "masters": [],
+        "name": "Skyrim VR",
+        "selectionState": "Available",
+        "step": "Game Version",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "SkyrimVR.esm",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "Patches\\EnchantableSpecialItemFix_Gaunt.esp",
+        "group": "Patches",
+        "masters": [
+          "cccbhsse001-gaunt.esl"
+        ],
+        "name": "Creation Club Fearsome Fists",
+        "selectionState": "Available",
+        "step": "Select Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "ccCBHSSE001-Gaunt.esl",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      },
+      {
+        "fileName": "Patches\\EnchantableSpecialItemFix_USSEP.esp",
+        "group": "Patches",
+        "masters": [
+          "Unofficial Skyrim Special Edition Patch.esp"
+        ],
+        "name": "Unofficial Skyrim Special Edition Patch",
+        "selectionState": "Selected",
+        "step": "Select Patches",
+        "typePatterns": [
+          {
+            "dependencies": {
+              "fileDependencies": [
+                {
+                  "file": "Unofficial Skyrim Special Edition Patch.esp",
+                  "state": "Active"
+                }
+              ],
+              "operator": "And"
+            },
+            "type": "Recommended"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "The Pigeon's Nest",
+    "modId": 154661,
+    "options": [
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Gather Branches for SotW",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Hendraheim Climbable Ladders",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Dynamic Race Based Lich",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Wounds - Splinted Limbs",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Train Hand to Hand on Dummies",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Ultimate Animated Potions",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "QoL",
+        "masters": [],
+        "name": "Disenchantment Font",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Patches",
+        "masters": [],
+        "name": "Pristine Vanilla Movement",
+        "selectionState": "Selected",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Hearthfire",
+        "masters": [],
+        "name": "Bluesky Hall",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Hearthfire",
+        "masters": [],
+        "name": "Fort Valus",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Hearthfire",
+        "masters": [],
+        "name": "Restoring the Aretino Residence",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Hearthfire",
+        "masters": [],
+        "name": "Interesting NPCs",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "World Encounter Aggresion",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "Word Wall",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "Catapults firing non-stop",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "Numbers Job Legder",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "Apocrypha Exit Bug",
+        "selectionState": "Available",
+        "step": "Installation"
+      },
+      {
+        "fileName": "",
+        "group": "Fixes",
+        "masters": [],
+        "name": "Survival Mode Notification",
+        "selectionState": "Available",
+        "step": "Installation"
+      }
+    ]
+  },
+  {
+    "displayName": "Realistic Ragdolls and Force",
+    "modId": 1439,
+    "options": [
+      {
+        "fileName": "plugins\\dD - Realistic Ragdoll Force - Realistic.esp",
+        "group": "Force",
+        "masters": [],
+        "name": "Realistic",
+        "selectionState": "Selected",
+        "step": "Custom"
+      },
+      {
+        "fileName": "plugins\\dD - Realistic Ragdoll Force - Reduced.esp",
+        "group": "Force",
+        "masters": [],
+        "name": "Reduced",
+        "selectionState": "Available",
+        "step": "Custom"
+      },
+      {
+        "fileName": "plugins\\dD - Realistic Ragdoll Force - Medium.esp",
+        "group": "Force",
+        "masters": [],
+        "name": "Medium",
+        "selectionState": "Available",
+        "step": "Custom"
+      },
+      {
+        "fileName": "plugins\\dD - Realistic Ragdoll Force - High.esp",
+        "group": "Force",
+        "masters": [],
+        "name": "High",
+        "selectionState": "Available",
+        "step": "Custom"
+      },
+      {
+        "fileName": "",
+        "group": "Ragdolls",
+        "masters": [],
+        "name": "All",
+        "selectionState": "Selected",
+        "step": "Custom"
+      },
+      {
+        "fileName": "",
+        "group": "Ragdolls",
+        "masters": [],
+        "name": "Cretures Only",
+        "selectionState": "Available",
+        "step": "Custom"
+      },
+      {
+        "fileName": "",
+        "group": "Ragdolls",
+        "masters": [],
+        "name": "None",
+        "selectionState": "Available",
+        "step": "Custom"
+      }
+    ]
+  }
+]

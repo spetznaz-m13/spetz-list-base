@@ -1,0 +1,24 @@
+{
+    "messages": [
+        {
+            "text": "[Latest LOOT thread](https://loot.github.io/latest-thread/)."
+        },
+        {
+            "text": "Your **Skyrim SE GOG** is up-to-date."
+        },
+        {
+            "text": "It appears you have **Nemesis Unlimited Behavior Engine** installed. Remember to run **Nemesis Unlimited Behavior Engine.exe** every time you have installed or uninstalled Nemesis, or a Nemesis-based mod."
+        },
+        {
+            "text": "You have not sorted your load order this session\\."
+        },
+        {
+            "pluginName": "dD - Realistic Ragdoll Force - Realistic.esp",
+            "text": "It's recommended that other mods be allowed to overwrite this mod's resources (e.g. meshes, textures)."
+        },
+        {
+            "pluginName": "RaceMenuPlugin.esp",
+            "text": "This plugin is optional."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+plugins:
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - Update.esm Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'Update.esm'
+
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - USSEP Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Circlets and Masks with all Robes and Hoods.esp - BeardMaskFix.esp Patch.esp'
+    after:
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+      - 'BeardMaskFix.esp'
+
+  - name: 'BeardMaskFix.esp - Circlets and Masks with all Robes and Hoods.esp Patch.esp'
+    after:
+      - 'BeardMaskFix.esp'
+      - 'Circlets and Masks with all Robes and Hoods.esp'
+
+  - name: 'Skyrim Project Optimization - Full ESL Version.esm - USSEP Patch.esp'
+    after:
+      - 'Skyrim Project Optimization - Full ESL Version.esm'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'EVE - KillMove Fixes.esp - USSEP Patch.esp'
+    after:
+      - 'EVE - KillMove Fixes.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'DisintegrationFix.esp - USSEP Patch.esp'
+    after:
+      - 'DisintegrationFix.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Gildergreen Fix.esp - USSEP Patch.esp'
+    after:
+      - 'Gildergreen Fix.esp'
+      - 'unofficial skyrim special edition patch.esp'
+
+  - name: 'Valthume Throne Fix - USSEP Patch.esp'
+    after:
+      - 'ValthumeThroneFix.esp'
+      - 'unofficial skyrim special edition patch.esp'

@@ -1,0 +1,177 @@
+enableDebugLogging = false
+enableLootUpdateCheck = true
+game = 'Skyrim Special Edition'
+language = 'en'
+lastGame = 'Skyrim Special Edition'
+lastVersion = '0.29.1'
+preludeSource = 'https://raw.githubusercontent.com/loot/prelude/v0.29/prelude.yaml'
+theme = 'default'
+updateMasterlist = true
+useNoSortingChangesDialog = true
+warnOnCaseSensitiveGamePaths = true
+
+[filters]
+hideAllPluginMessages = false
+hideBashTags = false
+hideCRCs = false
+hideCreationClubPlugins = false
+hideInactivePlugins = false
+hideLocations = false
+hideMessagelessPlugins = false
+hideNotes = false
+hideOfficialPluginsCleaningMessages = false
+hideVersionNumbers = false
+showOnlyEmptyPlugins = false
+showOnlyNewMessages = false
+showOnlyPluginsWithLoadAfterMetadata = false
+showOnlyPluginsWithLoadAfterUserMetadata = false
+showOnlyPluginsWithoutLoadOrderMetadata = false
+
+[groupsEditorWindow]
+bottom = 30
+left = 0
+maximised = false
+right = 100
+top = 0
+
+[window]
+bottom = 1357
+left = 53
+maximised = false
+right = 1329
+top = 82
+
+[[games]]
+folder = 'FalloutNV'
+gameId = 'FalloutNV'
+hiddenMessages = []
+local_path = ''
+master = 'FalloutNV.esm'
+masterlistSource = 'https://raw.githubusercontent.com/loot/falloutnv/v0.29/masterlist.yaml'
+minimumHeaderVersion = 1.3200000524520874
+name = 'Fallout: New Vegas'
+path = 'G:\SteamLibrary\steamapps\common\Fallout New Vegas'
+
+[[games]]
+folder = 'Skyrim Special Edition'
+gameId = 'Skyrim Special Edition'
+hiddenMessages = []
+local_path = ''
+master = 'Skyrim.esm'
+masterlistSource = 'https://raw.githubusercontent.com/loot/skyrimse/v0.29/masterlist.yaml'
+minimumHeaderVersion = 1.7000000476837158
+name = 'Skyrim AE GOG 1.6.1179 - Spetz List'
+path = 'G:\skyrim-anniversary-edition\spetz-list-uncompiled\base\game-root'
+
+[[games]]
+folder = 'Morrowind'
+gameId = 'Morrowind'
+hiddenMessages = []
+local_path = ''
+master = 'Morrowind.esm'
+masterlistSource = 'https://raw.githubusercontent.com/loot/morrowind/v0.29/masterlist.yaml'
+minimumHeaderVersion = 1.2000000476837158
+name = 'TES III: Morrowind'
+path = 'G:\SteamLibrary\steamapps\common\Morrowind'
+
+[[games]]
+folder = 'Skyrim Special Edition (GOG)'
+gameId = 'Skyrim Special Edition'
+hiddenMessages = []
+local_path = ''
+master = 'Skyrim.esm'
+masterlistSource = 'https://raw.githubusercontent.com/loot/skyrimse/v0.29/masterlist.yaml'
+minimumHeaderVersion = 1.7000000476837158
+name = 'TES V: Skyrim Special Edition (GOG)'
+path = 'G:\skyrim-anniversary-edition\Skyrim Anniversary Edition'
+
+[[games]]
+folder = 'Skyrim Special Edition (Steam)'
+gameId = 'Skyrim Special Edition'
+hiddenMessages = []
+local_path = ''
+master = 'Skyrim.esm'
+masterlistSource = 'https://raw.githubusercontent.com/loot/skyrimse/v0.29/masterlist.yaml'
+minimumHeaderVersion = 1.7000000476837158
+name = 'TES V: Skyrim Special Edition (Steam)'
+path = 'G:\SteamLibrary\steamapps\common\Skyrim Special Edition'
+
+[[languages]]
+locale = 'en'
+name = 'English'
+
+[[languages]]
+locale = 'bg'
+name = 'Български'
+
+[[languages]]
+locale = 'cs'
+name = 'Čeština'
+
+[[languages]]
+locale = 'da'
+name = 'Dansk'
+
+[[languages]]
+locale = 'de'
+name = 'Deutsch'
+
+[[languages]]
+locale = 'es'
+name = 'Español'
+
+[[languages]]
+locale = 'fi'
+name = 'Suomi'
+
+[[languages]]
+locale = 'fr'
+name = 'Français'
+
+[[languages]]
+locale = 'it'
+name = 'Italiano'
+
+[[languages]]
+locale = 'ja'
+name = '日本語'
+
+[[languages]]
+locale = 'ko'
+name = '한국어'
+
+[[languages]]
+locale = 'pl'
+name = 'Polski'
+
+[[languages]]
+locale = 'pt_BR'
+name = 'Português do Brasil'
+
+[[languages]]
+locale = 'pt_PT'
+name = 'Português de Portugal'
+
+[[languages]]
+locale = 'ru'
+name = 'Русский'
+
+[[languages]]
+locale = 'sv'
+name = 'Svenska'
+
+[[languages]]
+locale = 'ta'
+name = 'தமிழ்'
+
+[[languages]]
+locale = 'tr_TR'
+name = 'Türkçe'
+
+[[languages]]
+locale = 'uk_UA'
+name = 'Українська'
+
+[[languages]]
+locale = 'zh_CN'
+name = '简体中文'
