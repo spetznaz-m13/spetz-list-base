@@ -1,0 +1,39 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "The Spetz List - Base",
+        "description": "A nearly vanilla Skyrim Anniversary Edition (GOG 1.6.1179) modlist that only includes mods for increased stability and fixes. This modlist is meant to be a foundation to build upon.",
+        "author": "SpetznazM13",
+        "maintainers": [
+            "github/spetznaz-m13"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "GOG",
+            "SFW",
+            "Utility",
+            "Vanilla+"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/spetz-list-base-thumbnail.jpg?raw=true",
+            "readme": "https://github.com/spetznaz-m13/spetz-list-base/blob/main/README.md",
+            "download": "https://build.wabbajack.org/authored_files/download/Spetz%20List%20-%20Base.wabbajack_b07d2016-19c9-4064-93c0-38cb911603a2",
+            "machineURL": "TheSpetzListBase",
+            "discordURL": "https://discord.gg/amBNnXWDc6"
+        },
+        "download_metadata": {
+            "Hash": "amPeX3aTb1I=",
+            "Size": 107039299,
+            "NumberOfArchives": 367,
+            "SizeOfArchives": 32191730352,
+            "NumberOfInstalledFiles": 12201,
+            "SizeOfInstalledFiles": 35103554779,
+            "TotalSize": 67295285131
+        },
+        "version": "0.3.0"
+    }
+]
