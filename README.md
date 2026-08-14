@@ -178,6 +178,7 @@ The Wabbajack log files can be found in the version folder that gets automatical
 
 ### Modlist Features
 
+* Safe for work (SFW). No nudity or sexual content.
 * Better third person item selection.
 * Improved movement, such as jumping while sprinting.
 * Improved character creation.
