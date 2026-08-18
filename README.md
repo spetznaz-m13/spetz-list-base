@@ -8,7 +8,7 @@ Wabbajack Modlist Installer by *SpetznazM13*
 <table stlyle="border: none;">
 <tr>
 <td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-wabbajack.png" width="64px" /></td>
-<td><a href="https://build.wabbajack.org/authored_files/download/Spetz%20List%20-%20Base.wabbajack_b07d2016-19c9-4064-93c0-38cb911603a2">Download on Wabbajack</a></td>
+<td><a href="https://build.wabbajack.org/authored_files/download/The%20Spetz%20List%20-%20Base.wabbajack_77a4d439-5fea-40e7-afe4-c16574fdc818">Download on Wabbajack</a></td>
 <td><img src="https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/icon-discord.png" width="72px" /></td>
 <td><a href="https://discord.gg/amBNnXWDc6">Join us on Discord</a></td>
 </tr>
