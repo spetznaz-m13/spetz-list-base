@@ -1,7 +1,7 @@
 <!-- omit from toc -->
 # The Spetz List - Base
 
-![image](https://github.com/spetznaz-m13/spetz-list-base/blob/main/docs/images/spetz-list-base-thumbnail.jpg?raw=true)
+![image](https://raw.githubusercontent.com/spetznaz-m13/spetz-list-base/refs/heads/main/docs/images/spetz-list-base-thumbnail.jpg)
 
 Wabbajack Modlist Installer by *SpetznazM13*
 
