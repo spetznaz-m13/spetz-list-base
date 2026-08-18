@@ -1,10 +1,10 @@
 {
   "ModlistIsNSFW": false,
-  "Source": "G:\\skyrim-anniversary-edition\\spetz-list-uncompiled\\base",
-  "Downloads": "G:\\skyrim-anniversary-edition\\spetz-list-uncompiled\\base\\downloads",
+  "Source": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\spetz-list-base",
+  "Downloads": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\spetz-list-base\\downloads",
   "Game": "SkyrimSpecialEdition",
-  "OutputFile": "G:\\skyrim-anniversary-edition\\spetz-list-compiled\\spetz-list-base\\0.3.0\\Spetz List - Base.wabbajack",
-  "ModListImage": "G:\\skyrim-anniversary-edition\\spetz-list\\docs\\images\\spetz-list-base-thumbnail.jpg",
+  "OutputFile": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\spetz-list-base\\1.0.0\\The Spetz List - Base.wabbajack",
+  "ModListImage": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\spetz-list-base\\git\\docs\\images\\spetz-list-base-thumbnail.jpg",
   "UseGamePaths": false,
   "UseTextureRecompression": false,
   "OtherGames": [],
@@ -15,9 +15,9 @@
   "ModListReadme": "https://github.com/spetznaz-m13/spetz-list-base/blob/main/README.md",
   "ModListWebsite": "https://github.com/spetznaz-m13/spetz-list-base",
   "ModListCommunity": "https://discord.gg/amBNnXWDc6",
-  "ModlistVersion": "0.0.3.0",
+  "ModlistVersion": "0.1.0.0",
   "PublishUpdate": false,
-  "MachineUrl": "TheSpetzListBase",
+  "MachineUrl": "TheSpetzList/TheSpetzListBase",
   "AutoGenerateReport": true,
   "Profile": "spetz-list",
   "AdditionalProfiles": [],
@@ -89,6 +89,6 @@
     "utilities\\xedit\\SSEEditException.log"
   ],
   "AlwaysEnabled": [],
-  "Version": "0.3.0",
+  "Version": "1.0.0",
   "Description": null
 }

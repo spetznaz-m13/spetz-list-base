@@ -14,7 +14,6 @@ Vanilla Scripts Enhanced.esl
 Skyrim Project Optimization - Full ESL Version.esm
 FrokiDialogueFix.esl
 StandingAmbusherFix.esl
-FISS.esp
 Circlets and Masks with all Robes and Hoods.esp
 SkyUI_SE.esp
 Hearthfires Houses Building Fix.esp
@@ -55,6 +54,7 @@ Nordic Carved Clipping Fix.esp
 MCMHelper.esp
 BetterThirdPersonSelection.esp
 RaceMenu.esp
+Alikr Accusation Happens Only Once.esp
 RaceMenuPlugin.esp
 ImTalkinHere.esp
 ButterfliesUnchained.esp
@@ -78,7 +78,6 @@ Thieves Guild Holdup Improvements.esp
 TheCleverPrisoner.esp
 Imperial Thalmor Stormcloak Patrols Fixes.esp
 Imperial Thalmor Stormcloak Patrols Fixes - TheCleverPrisoner Patch.esp
-Alikr Accusation Happens Only Once.esp
 Neutral Whiterun Guards.esp
 Immersive Aggressive Opponents.esp
 CC Fishing No Free Scaled Armor.esp
@@ -92,6 +91,7 @@ StalhrimSourceFix.esp
 dD-No Spinning Death Animation.esp
 EMISH - Dragon Crash Land Markers Fix.esp
 MannequinKeywordFix.esp
+DLC2EmberPositioner.esp
 MissingMercerWorkaround.esp
 HeadieRidesAgain.esp
 BlackBookFix.esp
@@ -115,10 +115,9 @@ Fully Harvest Hanging Carcasses - CC Fishing Patch.esp
 DriftMaterialFixes.esp
 ResetRandomScenes.esp
 Wispmother And Albino Spider Respawn Fix SE.esp
-DLC2EmberPositioner.esp
+SeranaHoodFixWithAnimFix.esp
 Valthume Throne Fix - USSEP Patch.esp
 EnchantableSpecialItemFix_USSEP.esp
-SeranaHoodFixWithAnimFix.esp
 alternate start - live another life.esp
 Modern Brawl Bug Fix.esp
 ValthumeThroneFix.esp

@@ -50,12 +50,12 @@
 +[skse] - Wider MCM Menu for SkyUI
 +[skse] - Quest Journal Fix for SkyUI
 -Interface and Controls_separator
++Improved Eye - Glowing Vampire Eye
 +[skse] - Smooth Arrow Trails and Fixes
 +Scattered Embers Mesh and Position Fix
 +.1130 _ResourcePack fixes
 +Drift Material Fixes
 +[skse] - Fully Harvest Hanging Carcasses and Coin Purses
-+Eyes AO Clipping Fix
 +Whiterun Fence Base Seam Fix
 +Glowing Mushroom Collision Fixes
 +[skse] - Creep Cluster Collision Fixes
@@ -309,8 +309,6 @@
 +[skse] - Constructible Object Custom Keyword System NG
 +[skse] - Constructible Object Custom Keyword System
 +[skse] - FormList Manipulator - FLM
-+[skse] - FISSES NG
-+[skse] - FileAccess Interface for Skyrim SE Scripts - FISSES
 +[skse] - ConsoleUtilSSE NG
 +[skse] - PapyrusUtil SE - Modders Scripting Utility Functions
 +[skse] - powerofthree's Papyrus Extender

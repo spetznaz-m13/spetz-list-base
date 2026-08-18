@@ -1,9 +1,14 @@
-export MODLIST_NAME="${1:-base}"
-export REPO_DIRECTORY="/g/skyrim-anniversary-edition/spetz-list"
-export MO2_DIRECTORY="/g/skyrim-anniversary-edition/spetz-list-uncompiled/${MODLIST_NAME}"
-export EXPECTED_REPO_ORIGIN="git@github.com:spetznaz-m13/spetz-list.git"
+#!/usr/bin/env bash
+
+set -eu
+set -o pipefail
+
+export MODLIST_NAME="base"
+export REPO_DIRECTORY="/g/skyrim-anniversary-edition/wabbajack-compiled/spetz-list-${MODLIST_NAME}/git"
+export MO2_DIRECTORY="/g/skyrim-anniversary-edition/wabbajack-uncompiled/spetz-list-${MODLIST_NAME}"
+export EXPECTED_REPO_ORIGIN="git@github.com:spetznaz-m13/spetz-list-${MODLIST_NAME}.git"
 export COMPILER_SETTINGS_FILE="The Spetz List - ${MODLIST_NAME^}.compiler_settings"
-SCRIPT_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+SYNC_SCRIPT="/g/skyrim-anniversary-edition/spetz-list/scripts/sync-mo2.sh"
 
 # Sync the modlist's MO2 files with the Git repo.
-${SCRIPT_DIRECTORY}/../../scripts/sync-mo2.sh spetz-list
+"${SYNC_SCRIPT}" "spetz-list"

@@ -1,5 +1,28 @@
 # Modlist Changelog
 
+## Version 1.0.0
+
+### Summary
+- **Added:** 1 mods
+- **Removed:** 3 mods
+- **Updated:** 0 mods
+
+### Added Mods
+
+- Improved Eye - Glowing Vampire Eye
+
+### Removed Mods
+
+- [skse] - FileAccess Interface for Skyrim SE Scripts - FISSES
+- [skse] - FISSES NG
+- Eyes AO Clipping Fix
+
+### Updated Mods
+
+No mods updated.
+
+---
+
 ## Version 0.3.0
 
 ### Summary
@@ -114,4 +137,3 @@ No mods updated.
 ### Updated Mods
 
 No mods updated.
-
