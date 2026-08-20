@@ -229,3 +229,19 @@ No support is provided for users who added, modified, or removed mods. Support i
 
 * SpetznazM13 - Author/main developer of the **Spetz List**.
 * Al/Styyx Setup of Skyrim ASSOS - Thanks for their `README.md` template and inspiration for this modlist.
+
+<!--
+modlist_metadata:
+  version: 1.0.1
+  name: "spetz-list-base"
+  pretty_name: "The Spetz List - Base"
+  author: "SpetznazM13"
+  mo2_profile: "spetz-list"
+  readme: "https://github.com/spetznaz-m13/spetz-list-base/blob/main/README.md"
+  website: "https://github.com/spetznaz-m13/spetz-list-base"
+  discord: "https://discord.gg/amBNnXWDc6"
+  machine_url: "TheSpetzList/TheSpetzListBase"
+  image: "https://raw.githubusercontent.com/spetznaz-m13/spetz-list-base/refs/heads/main/docs/images/spetz-list-base-thumbnail.jpg"
+  load_order_library: "https://loadorderlibrary.com/lists/spetz-list-base"
+  wabbajack_cdn: "https://build.wabbajack.org/authored_files/download/The%20Spetz%20List%20-%20Base.wabbajack_a7b85af5-c6c0-4994-b6d8-2bb80a9fdcdc"
+-->
