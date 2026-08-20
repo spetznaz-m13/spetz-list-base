@@ -3,7 +3,7 @@
   "Source": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\spetz-list-base",
   "Downloads": "G:\\skyrim-anniversary-edition\\wabbajack-uncompiled\\spetz-list-base\\downloads",
   "Game": "SkyrimSpecialEdition",
-  "OutputFile": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\spetz-list-base\\1.0.0\\The Spetz List - Base.wabbajack",
+  "OutputFile": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\spetz-list-base\\1.0.1\\The Spetz List - Base.wabbajack",
   "ModListImage": "G:\\skyrim-anniversary-edition\\wabbajack-compiled\\spetz-list-base\\git\\docs\\images\\spetz-list-base-thumbnail.jpg",
   "UseGamePaths": false,
   "UseTextureRecompression": false,
@@ -15,7 +15,7 @@
   "ModListReadme": "https://github.com/spetznaz-m13/spetz-list-base/blob/main/README.md",
   "ModListWebsite": "https://github.com/spetznaz-m13/spetz-list-base",
   "ModListCommunity": "https://discord.gg/amBNnXWDc6",
-  "ModlistVersion": "0.1.0.0",
+  "ModlistVersion": "1.0.1",
   "PublishUpdate": false,
   "MachineUrl": "TheSpetzList/TheSpetzListBase",
   "AutoGenerateReport": true,
@@ -86,9 +86,10 @@
     "fomod_plus_crash.log",
     "utilities\\bethini\\logs",
     "utilities\\xedit\\SSEEdit_log.txt",
-    "utilities\\xedit\\SSEEditException.log"
+    "utilities\\xedit\\SSEEditException.log",
+    "plugins\\changeloggen.py"
   ],
   "AlwaysEnabled": [],
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": null
 }

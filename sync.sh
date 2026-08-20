@@ -3,12 +3,10 @@
 set -eu
 set -o pipefail
 
-export MODLIST_NAME="base"
-export REPO_DIRECTORY="/g/skyrim-anniversary-edition/wabbajack-compiled/spetz-list-${MODLIST_NAME}/git"
-export MO2_DIRECTORY="/g/skyrim-anniversary-edition/wabbajack-uncompiled/spetz-list-${MODLIST_NAME}"
-export EXPECTED_REPO_ORIGIN="git@github.com:spetznaz-m13/spetz-list-${MODLIST_NAME}.git"
-export COMPILER_SETTINGS_FILE="The Spetz List - ${MODLIST_NAME^}.compiler_settings"
+MODLIST_NAME="spetz-list-base"
 SYNC_SCRIPT="/g/skyrim-anniversary-edition/spetz-list/scripts/sync-mo2.sh"
 
 # Sync the modlist's MO2 files with the Git repo.
-"${SYNC_SCRIPT}" "spetz-list"
+"${SYNC_SCRIPT}" \
+  --mo2-dir "/g/skyrim-anniversary-edition/wabbajack-uncompiled/${MODLIST_NAME}" \
+  --git-dir "/g/skyrim-anniversary-edition/wabbajack-compiled/${MODLIST_NAME}/git"
