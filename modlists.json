@@ -22,19 +22,19 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/spetznaz-m13/spetz-list-base/refs/heads/main/docs/images/spetz-list-base-thumbnail.jpg",
             "readme": "https://github.com/spetznaz-m13/spetz-list-base/blob/main/README.md",
-            "download": "https://build.wabbajack.org/authored_files/download/The%20Spetz%20List%20-%20Base.wabbajack_77a4d439-5fea-40e7-afe4-c16574fdc818",
+            "download": "https://build.wabbajack.org/authored_files/download/The%20Spetz%20List%20-%20Base.wabbajack_a7b85af5-c6c0-4994-b6d8-2bb80a9fdcdc",
             "machineURL": "TheSpetzListBase",
             "discordURL": "https://discord.gg/amBNnXWDc6"
         },
         "download_metadata": {
-            "Hash": "0kYjqjfF25M=",
-            "Size": 107035277,
-            "NumberOfArchives": 365,
-            "SizeOfArchives": 32191431806,
+            "Hash": "n/NbB2t7hok=",
+            "Size": 107037081,
+            "NumberOfArchives": 364,
+            "SizeOfArchives": 32191429358,
             "NumberOfInstalledFiles": 12180,
-            "SizeOfInstalledFiles": 35102824088,
-            "TotalSize": 67294255894
+            "SizeOfInstalledFiles": 35102819363,
+            "TotalSize": 67294248721
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     }
 ]

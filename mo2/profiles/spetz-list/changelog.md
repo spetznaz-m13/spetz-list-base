@@ -1,8 +1,31 @@
 # Modlist Changelog
 
+## Version 1.0.1
+
+### Summary
+
+- **Added:** 0 mods
+- **Removed:** 1 mod
+- **Updated:** 0 mods
+
+### Added Mods
+
+No mods added.
+
+### Removed Mods
+
+- Changelog Generator for Modlist Authors MO2 plugin
+
+### Updated Mods
+
+No mods updated.
+
+---
+
 ## Version 1.0.0
 
 ### Summary
+
 - **Added:** 1 mods
 - **Removed:** 3 mods
 - **Updated:** 0 mods
@@ -26,6 +49,7 @@ No mods updated.
 ## Version 0.3.0
 
 ### Summary
+
 - **Added:** 2 mods
 - **Removed:** 1 mods
 - **Updated:** 0 mods
@@ -48,6 +72,7 @@ No mods updated.
 ## Version 0.2.0
 
 ### Summary
+
 - **Added:** 72 mods
 - **Removed:** 4 mods
 - **Updated:** 0 mods
