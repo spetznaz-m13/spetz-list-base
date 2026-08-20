@@ -3,7 +3,7 @@
 
 ![image](https://raw.githubusercontent.com/spetznaz-m13/spetz-list-base/refs/heads/main/docs/images/spetz-list-base-thumbnail.jpg)
 
-Wabbajack Modlist Installer by *SpetznazM13*
+Wabbajack modlist installer by *SpetznazM13*
 
 <table stlyle="border: none;">
 <tr>
@@ -48,7 +48,7 @@ Wabbajack Modlist Installer by *SpetznazM13*
 
 The **Base** version of the **Spetz List** is meant to be a stable foundation to build other modlists from. This modlist only includes mods for increased stability and fixes.
 
-A full list of mods used can be found [here](https://loadorderlibrary.com/lists/spetz-list-base).
+A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/spetz-list-base).
 
 > [!NOTE]
 > This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -88,7 +88,7 @@ Prior to installing the **Spetz List**, please complete the following steps.
 1. If necessary, change the language of the game to English. Other languages are not supported.
 1. Launch the game and reach the main menu. Allow it to download any addon files if needed.
 1. Close the game.
-1. Either uninstall the **Steam version** of Skryim Special Edition, **OR** close Steam and rename the game's manifest file `<A-Z>:\SteamLibrary\steamapps\appmanifest_489830.acf` to `appmanifest_489830.acf.disabled`.
+1. Either uninstall the **Steam version** of Skryim Special Edition, **OR** disable it by closing Steam and renaming the game's manifest file `<A-Z>:\SteamLibrary\steamapps\appmanifest_489830.acf` to `appmanifest_489830.acf.disabled`.
 
 >[!CAUTION]
 >**Make sure the Steam version of the game is uninstalled or disabled before running Wabbajack.**
@@ -178,6 +178,7 @@ The Wabbajack log files can be found in the version folder that gets automatical
 
 ### Modlist Features
 
+* A full list of mods included in the modlist can be found [here](https://loadorderlibrary.com/lists/spetz-list-base).
 * Safe for work (SFW). No nudity or sexual content.
 * Better third person item selection.
 * Improved movement, such as jumping while sprinting.
