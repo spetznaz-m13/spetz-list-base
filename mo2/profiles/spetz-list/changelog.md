@@ -5,7 +5,7 @@
 ### Summary
 
 - **Added:** 0 mods
-- **Removed:** 0 mods
+- **Removed:** 1 mod
 - **Updated:** 0 mods
 
 ### Added Mods
